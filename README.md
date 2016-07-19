@@ -1,13 +1,13 @@
 # homebridge-photon-garagedoor
 
-[![NPM](https://nodei.co/npm/homebridge-photon-garagedoor.png)](https://npmjs.org/package/homebridge-photon-garagedoor)
-
 
 ![](https://j.gifs.com/DkO2nB.gif)
 
 HD video: https://youtu.be/2AzlH0_7FK4
 
 # Installation
+
+[![NPM](https://nodei.co/npm/homebridge-photon-garagedoor.png)](https://npmjs.org/package/homebridge-photon-garagedoor)
 
 1. Install homebridge using: npm install -g homebridge
 2. Install this plugin using: npm install -g homebridge-photon-garagedoor
