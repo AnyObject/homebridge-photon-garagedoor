@@ -39,5 +39,5 @@ Fields:
 * "url": Don't change (required) 
 * "doorStateChangedEventName": Don't change if using sample-garageDoor.ino (required)
 * "doorOpenCloseFunctionName": Don't change if using sample-garageDoor.ino (required)
-* "doorIsClosedVariableName": Don't change if using sample-garageDoor.ino (required)
+* "doorOpenSensorVariableName": Don't change if using sample-garageDoor.ino (required)
 
