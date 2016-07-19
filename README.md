@@ -1,6 +1,6 @@
 # homebridge-photon-garagedoor
 
-![ScreenShot](https://youtu.be/2AzlH0_7FK4)
+![ScreenShot](https://gifs.com/gif/siri-garage-door-opener-n5Ao4l)
 
 
 # Installation
