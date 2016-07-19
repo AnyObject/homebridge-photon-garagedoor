@@ -1,5 +1,8 @@
 # homebridge-photon-garagedoor
 
+[![NPM](https://nodei.co/npm/homebridge-photon-garagedoor.png)](https://npmjs.org/package/homebridge-photon-garagedoor)
+
+
 ![](https://j.gifs.com/DkO2nB.gif)
 
 HD video: https://youtu.be/2AzlH0_7FK4
@@ -40,4 +43,3 @@ Fields:
 * "doorStateChangedEventName": Don't change if using sample-garageDoor.ino (required)
 * "doorOpenCloseFunctionName": Don't change if using sample-garageDoor.ino (required)
 * "doorOpenSensorVariableName": Don't change if using sample-garageDoor.ino (required)
-
