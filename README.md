@@ -25,7 +25,7 @@ Configuration sample:
           "doorOpensInSeconds": 20,
           "doorStateChangedEventName": "doorState",
           "doorOpenCloseFunctionName": "openClose",
-          "doorIsClosedVariableName": "isClosed",
+          "doorOpenSensorVariableName": "openSensor"
       }
   ]
 ```
