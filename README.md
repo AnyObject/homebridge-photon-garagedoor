@@ -1,5 +1,8 @@
 # homebridge-photon-garagedoor
 
+![ScreenShot](https://youtu.be/2AzlH0_7FK4)
+
+
 # Installation
 
 1. Install homebridge using: npm install -g homebridge
