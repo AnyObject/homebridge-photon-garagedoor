@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-photon-garagedoor",
+  "version": "1.0.0",
+  "description": "Exposes a garage door accessory to HomeBridge that uses a Particle Photon",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "garagedoor"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "Antonio Yip <ayip@anyobject.co.nz>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anyobject/homebridge-photon-garagedoor.git"
+  }
+}

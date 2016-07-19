@@ -1,0 +1,13 @@
+"accessories": [
+      {
+          "accessory": "PhotonGarageDoor",
+          "name": "Garage Door",
+          "access_token": "<your_access_token>",
+          "url": "https://api.particle.io/v1/devices/",
+          "deviceid": "<your_deviceid>",
+          "doorOpensInSeconds": 20,
+          "doorStateChangedEventName": "doorState",
+          "doorOpenCloseFunctionName": "openClose",
+          "doorIsClosedVariableName": "isClosed",
+      }
+  ]
