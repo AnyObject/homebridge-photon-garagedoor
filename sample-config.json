@@ -8,6 +8,6 @@
           "doorOpensInSeconds": 20,
           "doorStateChangedEventName": "doorState",
           "doorOpenCloseFunctionName": "openClose",
-          "doorOpenSensorVariableName": "openSensor",
+          "doorOpenSensorVariableName": "openSensor"
       }
   ]
