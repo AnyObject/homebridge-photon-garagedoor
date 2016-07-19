@@ -1,5 +1,9 @@
 # homebridge-photon-garagedoor
 
+![](https://j.gifs.com/DkO2nB.gif)
+
+HD video: https://youtu.be/2AzlH0_7FK4
+
 # Installation
 
 1. Install homebridge using: npm install -g homebridge
@@ -37,6 +41,3 @@ Fields:
 * "doorOpenCloseFunctionName": Don't change if using sample-garageDoor.ino (required)
 * "doorIsClosedVariableName": Don't change if using sample-garageDoor.ino (required)
 
-
-# Demo 
-https://youtu.be/2AzlH0_7FK4
