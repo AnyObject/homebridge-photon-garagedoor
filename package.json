@@ -1,6 +1,6 @@
 {
   "name": "homebridge-photon-garagedoor",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Exposes a garage door accessory to HomeBridge that uses a Particle Photon",
   "main": "index.js",
   "keywords": [
